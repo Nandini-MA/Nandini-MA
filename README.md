@@ -1,4 +1,5 @@
 Hi, I'm Nandini M A! 👋
+
 💻 Aspiring Java Developer | Software Developer
 
 I'm a Computer Science and Engineering graduate🎓 passionate about software development, backend technologies, and building real-world applications.
@@ -17,40 +18,15 @@ I enjoy learning new technologies, solving problems, and developing efficient an
 
 🛠️ Technical Skills
 
-Programming Languages
+Programming Languages : Java, SQL, Python (Basic)
 
-Java
-SQL
-Python (Basic)
+Backend Development : Spring, Spring Boot, RESTful APIs, JPA / Hibernate, Servlets, JSP
 
-Backend Development
+Frontend Development : HTML, CSS, JavaScript
 
-Spring
-Spring Boot
-RESTful APIs
-JPA / Hibernate
-Servlets
-JSP
+Databases : MySQL, MongoDB (Basic)
 
-Frontend Development
-
-HTML
-CSS
-JavaScript
-
-Databases
-
-MySQL
-MongoDB (Basic)
-
-Cloud & Tools
-
-AWS (EC2, S3, RDS)
-Git & GitHub
-Maven
-Postman
-Eclipse
-VS Code
+Cloud & Tools : AWS (EC2, S3, RDS), Git & GitHub, Maven, Postman, Eclipse, VS Code
 
 
 📌 Projects
